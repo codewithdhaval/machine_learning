@@ -1,0 +1,18 @@
+[dev-packages]
+numpy = "*"
+pandas="*"
+matplotlib="*"
+python-dateutil="*"
+pytz="*"
+scikit-learn="*"
+scipy="*"
+statsmodels="*"
+xlrd="*"
+openpyxl="*"
+lxml="*"
+html5lib="*"
+beautifulsoup4="*"
+jupyter="*"
+
+
+
